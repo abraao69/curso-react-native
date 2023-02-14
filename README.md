@@ -5,7 +5,7 @@ Curso React Native realizado na Cod3r
 <hr>
 <p align="center">
 
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaVaJ1_r6xIoM4vd0SuHIXaTMe62c78LbV8HT5HjP8cSUaW4Lb_V9Xt0-d1zSHK8J3nEw&usqp=CAU](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/reactjs-benefits.jpg)"/>
+  <img src="https://wiki.tino.org/wp-content/uploads/2021/09/pasted-image-0.png"/>
 
 </p>
 <hr>
